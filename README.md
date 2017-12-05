@@ -1,2 +1,4 @@
 # Calculator Application
-using Swift 10, Xcode 8
+
+##Simple iOS Calculator Application using Swift 10, Xcode 8
+
